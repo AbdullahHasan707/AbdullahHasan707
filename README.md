@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Hasan Shah</h1>
-<h3 align="center">A passionate Data Analyst & Data Scientist</h3>
+<h3 align="center">A passionate Data Analystt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahhasan707&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahhasan707" /> </p>
 
