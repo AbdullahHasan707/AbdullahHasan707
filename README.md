@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Pandas, NumPy, and Tensor Flow**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdullah-hasan-shah-b306b6370/details/projects/](https://www.linkedin.com/in/abdullah-hasan-shah-b306b6370/details/projects/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdullah-hasan-shah-b306b6370/details/projects](https://www.linkedin.com/in/abdullah-hasan-shah-b306b6370/details/projects/)
 
 - 💬 Ask me about **Python**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/abdullah-hasan-shah-b306b6370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdullah-hasan-shah-b306b6370" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/abdullah-hasan-shah-b306b6370](https://www.linkedin.com/in/abdullah-hasan-shah-b306b6370/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdullah-hasan-shah-b306b6370" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
